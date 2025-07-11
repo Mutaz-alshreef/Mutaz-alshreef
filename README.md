@@ -30,4 +30,4 @@ I'm **Motaz Alsharif**, a passionate self-taught programmer and high school grad
 
 ---
 
-> 💡 “The best way to predict the future is to create it.” — Peter Drucker
+> 💡 “The best way to predict the future is to create it.” 
